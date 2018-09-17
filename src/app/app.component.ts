@@ -78,7 +78,7 @@ export class CopayApp {
         this.openLockModal();
         // Check Profile
         this.profile.loadAndBindProfile().then((profile: any) => {
-          this.registerIntegrations();
+          //this.registerIntegrations();
           if (profile) {
             this.logger.info('Profile exists.');
             this.rootPage = TabsPage;

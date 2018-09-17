@@ -23,12 +23,12 @@ $app-direction: ltr;
 @import 'overrides';
 
 $colors: (
-  primary: $color-primary,
-  secondary: $color-secondary,
+  primary:    #3e74d1,
+  secondary:  #32db64,
   warning: #eba133,
   danger: #bb331a,
   success: #7bc94d,
-  light: #f4f4f4,
+  light:#a5a5a5,
   blank: #fafafa,
   dark: #424242,
   grey: #999

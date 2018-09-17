@@ -1,12 +1,28 @@
 <ion-content no-bounce>
 
   <div class="logo-tagline">
-    <img src='assets/img/app/logo-negative.svg' id="logo" />
-    <p class="onboarding-description" translate>Take control of your money,<br />get started with bitcoin.</p>
+    <img src='assets/img/app/logo-onboarding.png' id="logo" />
+    <p class="onboarding-description" translate>An easy to use <br/><br/>Bitcoin Cash wallet</p>
   </div>
-  <div class="bottom-absolute">
+<!--   <div class="bottom-absolute">
     <button ion-button block (click)="getStarted()" translate>Get started</button>
     <button ion-button block outline (click)="restoreFromBackup()" translate>Restore from backup</button>
+  </div> -->
+  <div class="bottom-absolute">
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <button ion-button round outline (click)="restoreFromBackup()">
+          Restore
+        </button>
+      </ion-col>
+      <ion-col col-auto>
+         
+          <button ion-button round (click)="getStarted()">
+            New Wallet
+        </button>
+      </ion-col>
+  </ion-row>
+</ion-grid>
   </div>
-
 </ion-content>

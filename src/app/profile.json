@@ -1,0 +1,73 @@
+{
+    "version": "1.0.0",
+    "createdOn": 1534423453074,
+    "credentials": [
+        {
+            "coin": "btc",
+            "network": "livenet",
+            "xPrivKey": "xprv9s21ZrQH143K2Dhi9LnLm85d8T6NuMk5wDDdgDiKkiDbgtT551JuqNx3edsQg1Pjm38chwftHmeRZ2VcpU9SC8pBrq4cALjtxHrmJA2c34q",
+            "xPubKey": "xpub6CmxKZC6NZxRCbpHTQHdDS7wJ5SkaoDY6AnuyyuLWspBkQueSpTbQWCsFQ3Gm95cu5BQ8mMWCv278KsMxUiSddLMen4yxanH89PzwJdRU8X",
+            "requestPrivKey": "7c4e3bcffeba940c11501732c84ae6c02b86cf7ceaada0c19346e20e8c4bd34f",
+            "requestPubKey": "0244c38838f620ed3cb21123a399e8b5ad0f6f2c2234df1391e32651762e514edf",
+            "copayerId": "ccfad3ba36d3700d108a8801727828a36504d7a8c815dbc483309ff6a923fc3f",
+            "publicKeyRing": [
+                {
+                    "xPubKey": "xpub6CmxKZC6NZxRCbpHTQHdDS7wJ5SkaoDY6AnuyyuLWspBkQueSpTbQWCsFQ3Gm95cu5BQ8mMWCv278KsMxUiSddLMen4yxanH89PzwJdRU8X",
+                    "requestPubKey": "0244c38838f620ed3cb21123a399e8b5ad0f6f2c2234df1391e32651762e514edf"
+                }
+            ],
+            "walletId": "94219e9b-2724-41fa-b1ad-ecd3f7db56be",
+            "walletName": "Personal Wallet",
+            "m": 1,
+            "n": 1,
+            "walletPrivKey": "e0c4370c970777d313e6f5b40b6c0fa2c3f8f9e1e26b6158603bda1a5cd16e8c",
+            "personalEncryptingKey": "ucc0AutqDWS5W9MUAluzOw==",
+            "sharedEncryptingKey": "YP7srVtYBmGsq0Wuri6acw==",
+            "copayerName": "me",
+            "mnemonic": "divert grief special subway claim prison chalk feel hidden stay when brain",
+            "entropySource": "49871aca2af26f47bd22707e7723c24f34243cb9640cd135b40777f276be07ed",
+            "mnemonicHasPassphrase": false,
+            "derivationStrategy": "BIP44",
+            "account": 0,
+            "compliantDerivation": true,
+            "addressType": "P2PKH"
+        },
+        {
+            "coin": "bch",
+            "network": "livenet",
+            "xPrivKey": "xprv9s21ZrQH143K38Sq5vzEm4kGa3eaXuEhHbeZ2kPA91N2SVQBTYUgzFWm62PFUM7kTrtBfRF6WBoC1jGPBogbz53Qy69snZzDAWrYefJYkbu",
+            "xPubKey": "xpub6CdNkVvzbopgucdBqrLSK16AYpAgutgs6bPoz9kSnzpeQ92VSuUsjREfTX8EapFdMq7ykm2Ng2uAsDd15wEfSRFAEd5GZeRoTsVKWpeXhpn",
+            "requestPrivKey": "91d032ec7bd40cdf911c952cb8fb7d9291413af2aa5002e640c1baf8bf6bc97a",
+            "requestPubKey": "031ecb691e9019e11c7ca119e41fdbe6af447a88940ab5a50208d9f3ac3a7bc1ff",
+            "copayerId": "6c4dc774a629735be7caaf8b8601c53a9a0066e9f5fa171d4d90efa97d5dbb88",
+            "publicKeyRing": [
+                {
+                    "xPubKey": "xpub6CdNkVvzbopgucdBqrLSK16AYpAgutgs6bPoz9kSnzpeQ92VSuUsjREfTX8EapFdMq7ykm2Ng2uAsDd15wEfSRFAEd5GZeRoTsVKWpeXhpn",
+                    "requestPubKey": "031ecb691e9019e11c7ca119e41fdbe6af447a88940ab5a50208d9f3ac3a7bc1ff"
+                }
+            ],
+            "walletId": "b8788902-7ea6-432c-a86e-a312827f508f",
+            "walletName": "Jens",
+            "m": 1,
+            "n": 1,
+            "walletPrivKey": "4f3f078db73e34c34938271afe9111031fcb9efbce1cd3a8502fd88c89820876",
+            "personalEncryptingKey": "Q/h4Zk7rz0dhS5M4yP6mOw==",
+            "sharedEncryptingKey": "QraOUKHtj1F4o9NjXh8SAg==",
+            "copayerName": "me",
+            "mnemonic": "common usual apple regret meadow reduce camera help forum ribbon area easily",
+            "entropySource": "df1afb009d593a6c2d986f1d8dda3e07d005559bdeb38db8441ddc441da4b6cf",
+            "mnemonicHasPassphrase": false,
+            "derivationStrategy": "BIP44",
+            "account": 0,
+            "compliantDerivation": true,
+            "addressType": "P2PKH"
+        }
+    ],
+    "disclaimerAccepted": false,
+    "checked": {
+        "94219e9b-2724-41fa-b1ad-ecd3f7db56be": true,
+        "b8788902-7ea6-432c-a86e-a312827f508f": true
+    },
+    "dirty": true,
+    "checkedUA": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36"
+}
